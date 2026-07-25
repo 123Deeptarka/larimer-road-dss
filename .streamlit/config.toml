@@ -1,0 +1,10 @@
+[theme]
+base = "dark"
+backgroundColor = "#0d0d0d"          # page plane
+secondaryBackgroundColor = "#1a1a19" # cards, sidebar, inputs
+textColor = "#ffffff"                # primary ink
+primaryColor = "#3987e5"             # accent (dark-mode categorical slot 1)
+font = "sans serif"
+
+[server]
+headless = true

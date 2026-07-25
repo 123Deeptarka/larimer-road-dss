@@ -1,0 +1,10 @@
+# NEVER commit secrets — Streamlit Cloud injects them at runtime
+.streamlit/secrets.toml
+*.env
+keys.env
+
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+cache/
