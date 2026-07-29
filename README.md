@@ -260,7 +260,7 @@ Rotate any key that has ever been pasted into a chat, a commit, or a log.
   within the search radius, but coverage fell to 92.8% on the rural reference
   group — imagery-based assessment is least available exactly where the network
   is sparsest.
-- 694 of 23,190 segments lie outside the largest connected component and carry no
+- 293 of 23,190 segments lie outside the largest connected component and carry no
   betweenness; their importance derives from traffic and NHS only.
 - 16,036 of 23,190 segments have no reported AADT and take a class-based planning
   capacity instead of a measurement. The traffic factor treats these as an
